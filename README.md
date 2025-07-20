@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Behram!
 
-<!--
-**Behram-Khan-1/Behram-Khan-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Game Developer | 💡 Simulation & AI Enthusiast | ✨ Building creative experiences in Unity
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 🧨 Jetpack Joyride Clone – [View on GitHub](https://github.com/your-username/Jetpack-Joyride-Clone)
+- 🧱 Breakout Game Clone – [View on GitHub](https://github.com/your-username/Breakout-Game)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Unity (2D & 3D)
+- C# Scripting
+- Game Systems & Tools
+- AI Simulations
+
+## 📫 Contact
+- LinkedIn: [your-link](#)
+- Email: khanbehram66@gmail.com
