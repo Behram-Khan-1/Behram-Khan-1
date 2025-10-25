@@ -1,10 +1,11 @@
-# 👋 Hi, I'm Behram!
+# Hi, I'm Behram!
+Check out my website: @@@@@@@@@@@@@@@@@@@@@@@
 
-🎮 Game Developer | 💡 Simulation & AI Enthusiast | ✨ Building creative experiences in Unity
+Game Developer | Simulation | Building creative experiences in Unity
 
-## 🚀 Projects
-- 🧨 Jetpack Joyride Clone – [View on GitHub](https://github.com/your-username/Jetpack-Joyride-Clone)
-- 🧱 Breakout Game Clone – [View on GitHub](https://github.com/your-username/Breakout-Game)
+## 🚀 20 Game Challenge - No AI used to help develop intuition. 
+
+
 
 ## 🔧 Skills
 - Unity (2D & 3D)
