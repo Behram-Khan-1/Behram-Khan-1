@@ -1,5 +1,5 @@
 # Hi, I'm Behram!
-Check out my website: @@@@@@@@@@@@@@@@@@@@@@@
+Check out my website: https://behramkhan.vercel.app/
 
 Game Developer | Simulation | Building creative experiences in Unity
 
@@ -14,5 +14,5 @@ Game Developer | Simulation | Building creative experiences in Unity
 - AI Simulations
 
 ## 📫 Contact
-- LinkedIn: [your-link](#)
+- LinkedIn: [[your-link](https://www.linkedin.com/in/behramkhan66/)](#) 
 - Email: khanbehram66@gmail.com
