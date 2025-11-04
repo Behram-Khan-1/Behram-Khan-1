@@ -14,5 +14,5 @@ Game Developer | Simulation | Building creative experiences in Unity
 - AI Simulations
 
 ## 📫 Contact
-- LinkedIn: [[your-link](https://www.linkedin.com/in/behramkhan66/)](#) 
+- LinkedIn: [[behramkhan66](https://www.linkedin.com/in/behramkhan66/)](#) 
 - Email: khanbehram66@gmail.com
